@@ -1,0 +1,9 @@
+*{ font-family:'Courier New', Courier, monospace;
+}
+    .a1 {
+        color:blueviolet;
+        font-size: 30px;
+    }
+    body {
+    background-color: rgb(214, 213, 129);
+    }
